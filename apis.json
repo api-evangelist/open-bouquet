@@ -1,0 +1,59 @@
+{
+    "name": "Open Bouquet",
+    "description": "",
+    "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist\/api-butterfly.png",
+    "tags": [
+        "analysis",
+        "evangelism target",
+        "have api",
+        "profile",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-bouquet\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Bouquet",
+            "description": null,
+            "image": "https:\/\/s3.amazonaws.com\/kinlane-productions\/api-evangelist\/api-butterfly.png",
+            "humanURL": "http:\/\/bouquet.ai\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-bouquet-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-bouquet-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/medium.com\/@OpenBouquet"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/medium.com\/feed\/@OpenBouquet"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/openbouquet"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/openbouquet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/bouquet.ai\/"
+        }
+    ]
+}
